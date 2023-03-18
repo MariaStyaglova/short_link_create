@@ -14,7 +14,7 @@
     <body class="bg-beige">
         <div class="smv-main_wrapper container">
             <div class="smv-main_container">
-                <div class="smv-main">
+                <div class="smv-main"> 
                     <h1 class="smv-main__title">Сервис коротких ссылок</h1>
                     <p class="smv-main__text">Откажитесь от длинных URL-адресов. Копируйте короткие ссылки и отправляйте их своим клиентам</p>
                 </div>
